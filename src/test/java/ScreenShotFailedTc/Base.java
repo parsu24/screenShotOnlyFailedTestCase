@@ -26,7 +26,7 @@ public class Base {
 		File scrfile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(scrfile,new File("C:\\Users\\prashant\\eclipse-workspace\\ScreenShotOnlyFailedTc\\Screenshots"
         		+ "\\"+testMethodName+"_"+".jpg"));
-        System.out.println("sjdhsjhdfjhjgh123");
+        System.out.println("sjdhsjhdfjhjgh345");
 
       
 	}
