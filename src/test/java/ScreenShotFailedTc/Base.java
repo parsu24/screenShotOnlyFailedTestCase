@@ -27,6 +27,8 @@ public class Base {
         FileUtils.copyFile(scrfile,new File("C:\\Users\\prashant\\eclipse-workspace\\ScreenShotOnlyFailedTc\\Screenshots"
         		+ "\\"+testMethodName+"_"+".jpg"));
         System.out.println("sjdhsjhdfjhjgh123");
+
+      
 	}
 
 }
